@@ -4,20 +4,22 @@ I'm a bike mechanic based in the Huon Valley, Tasmania.
 Specialties
 =======
 
-    .Electric bikes
-      factory or DIY, new or oldschool. Battery testing, diagnostics, repair
++Electric bikes
+
+factory or DIY, new or oldschool. Battery testing, diagnostics, repair
       
-    .Service
-      maintenance and replacement parts
++Service
 
-    .Repair
-      beyond replacement parts to fixing and modifying
+maintenance and replacement parts
 
-plus old bikes, assembly, advice
++Repair
 
-Contact
-------
-Part time by appointment,
-get in touch:
->Email
->Instagram
+beyond replacement parts to fixing and modifying
+
++plus old bikes, assembly, advice
+
+Instagram
+-------------
+(box)
+
+(Footer)
