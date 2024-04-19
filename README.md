@@ -1,18 +1,23 @@
-This is a test of making a website with jekyll
-this is the second line
+Welcome to Egg Island Cycles!
+I'm a bike mechanic based in the Huon Valley, Tasmania.
 
-Heading 1
+Specialties
 =======
 
-(image placeholder)
+    .Electric bikes
+      factory or DIY, new or oldschool. Battery testing, diagnostics, repair
+      
+    .Service
+      maintenance and replacement parts
 
-_contact details go here_
+    .Repair
+      beyond replacement parts to fixing and modifying
 
-This is a list of things
+plus old bikes, assembly, advice
 
-.Ebikes
-.batteries
-.Service
-.Diagnostic
-.assembly
-.old bikes
+Contact
+------
+Part time by appointment,
+get in touch:
+>Email
+>Instagram
