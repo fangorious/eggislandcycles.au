@@ -8,13 +8,16 @@ _Welcome to_
 
 
 - Electric bikes
-      factory or DIY, new or oldschool. Battery testing, diagnostics, repair
+
+  factory or DIY, new or oldschool. Battery testing, diagnostics, repair
       
 - Service
-      maintenance and replacement parts
+
+  maintenance and replacement parts
 
 - Repair
-      beyond replacement parts to fixing and modifying
+
+  beyond replacement parts to fixing and modifying
 
 - plus old bikes, assembly, advice
 
