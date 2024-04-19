@@ -1,25 +1,27 @@
-Welcome to Egg Island Cycles!
-I'm a bike mechanic based in the Huon Valley, Tasmania.
+_Welcome to_
 
-Specialties
-=======
+Egg Island Cycles
+===============
+**I'm a bike mechanic based in the Huon Valley, Tasmania.**
 
-+Electric bikes
+## Specialties
 
-factory or DIY, new or oldschool. Battery testing, diagnostics, repair
+
+- Electric bikes
+      factory or DIY, new or oldschool. Battery testing, diagnostics, repair
       
-+Service
+- Service
+      maintenance and replacement parts
 
-maintenance and replacement parts
+- Repair
+      beyond replacement parts to fixing and modifying
 
-+Repair
+- plus old bikes, assembly, advice
 
-beyond replacement parts to fixing and modifying
+## Instagram
 
-+plus old bikes, assembly, advice
+------------
 
-Instagram
--------------
 (box)
 
 (Footer)
