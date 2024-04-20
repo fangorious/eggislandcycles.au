@@ -24,7 +24,4 @@ _Welcome to_
 ### Instagram
 
 ------------
-
-(box)
-
-(Footer)
+<embed-instagram-feed url="Your Instagram API from NoCodeAPI"></embed-instagram-feed>
