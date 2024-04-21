@@ -22,7 +22,7 @@ _Welcome to_
 
 ### How I work
 
-By appointment - You get in touch and we arrange a booking. 
+By appointment - You <a href="mailto: hello@eggislandcycles.au>get in touch</a> and we arrange a booking. 
 I come to you, and either work on-site or collect-and-return, depending on what's required.
 
 <!--### Instagram
